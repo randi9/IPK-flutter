@@ -1,0 +1,16 @@
+{
+  "statusCode": "200",
+  "token": "cf4dcd9edddddc04ef5cf7be58f2bbd9",
+  "status": "yes",
+  "level": "mahasiswa",
+  "nim": "1209705098",
+  "user": {
+    "id": 34,
+    "name": "MUHAMMAD DEDEN FIRDAUS",
+    "foto": "https://storage-uinbdg.s3.ap-southeast-3.amazonaws.com/upload_salam/foto_profil_salam/default_user.png",
+    "email": "raden.abdulmuis@gmail.com",
+    "jurusan": "TEKNIK INFORMATIKA",
+    "fakultas": "SAINS DAN TEKNOLOGI",
+    "angkatan": "20091"
+  }
+}
